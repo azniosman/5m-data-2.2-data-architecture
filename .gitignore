@@ -4,3 +4,4 @@ solutions/
 output/*.db*
 *.pyc
 __pycache__/
+notebooks/nosql_object_storage_lesson.ipynb
